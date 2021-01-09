@@ -2,7 +2,7 @@
 
     <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>pwned</title>
+        <title>pwners</title>
     </head>
 <style>
 	body {
